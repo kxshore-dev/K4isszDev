@@ -1,13 +1,13 @@
 <div align="center">
 
 # ✨ M. Kishore
-### 🚀 K4isszDev
+### 🚀 @KxShore
 **Full-Stack Developer | Self-Learner | Founder of AgoraNet**
 
 *Continuous Learning | Building with Python, JavaScript, and Web Technologies*
 
-[![GitHub followers](https://img.shields.io/github/followers/K4isszDev?style=flat-square&color=000000)](https://github.com/K4isszDev)
-[![GitHub User's stars](https://img.shields.io/github/stars/K4isszDev?style=flat-square&color=000000)](https://github.com/K4isszDev)
+[![GitHub followers](https://img.shields.io/github/followers/Kxshore?style=flat-square&color=000000)](https://github.com/K4isszDev)
+[![GitHub User's stars](https://img.shields.io/github/stars/forks?style=flat-square&color=000000)](https://github.com/K4isszDev)
 
 ---
 
@@ -117,9 +117,9 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4isszDev&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kxshore&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4isszDev&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxshore&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
