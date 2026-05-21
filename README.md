@@ -65,13 +65,16 @@ Currently, I'm balancing my Class 12th academics while focusing on **building op
 
 | Area | Level | Notes |
 |------|-------|-------|
-| **Python** | Strong | My go-to language for everything |
-| **JavaScript** | Intermediate | Can build functional apps, design isn't my strength |
-| **Databases** | Intermediate | Know theory well, limited production experience |
-| **Frontend** | Beginner-Intermediate | Honest: I use AI tools to make things look polished |
-| **Backend** | Intermediate | More comfortable with server logic than UI |
-| **Git/GitHub** | Intermediate | Comfortable with workflows and collaboration |
+| **Python** | Expert | My primary language, most comfortable and experienced with |
+| **JavaScript** | Beginner-Intermediate | Learning and building with it, but not practiced much yet |
+| **HTML5 & CSS3** | Beginner-Intermediate | Basic understanding, improving through projects |
+| **Databases** | Intermediate | Know theory well, limited production hands-on experience |
+| **Frontend** | Beginner | Honest: I use AI tools to help design and make things look polished |
+| **Backend** | Intermediate | More comfortable with server logic and architecture |
+| **Git/GitHub** | Intermediate | Comfortable with workflows and collaborative development |
 | **Deployment** | Intermediate | Used Heroku, Vercel, Netlify |
+
+**Real Talk:** I know the syntax of multiple languages, but I'm most confident with Python because it's what I've practiced the most. Other languages I've forgotten bits because I haven't used them often. Now I'm on a journey to expand my practical knowledge and get comfortable with JavaScript, web development, and full-stack projects.
 
 ---
 
@@ -133,7 +136,8 @@ I'm interested in:
 
 - Building **real open-source projects** that matter
 - Getting better at **full-stack development**
-- Learning **system design** and scalability
+- Learning **DSA** (Data Structure Algorithm)
+- Practicing leetcode 
 - Figuring out what I want to do after Class 12
 
 ---
@@ -146,3 +150,4 @@ I'm interested in:
 ```
 
 **Last updated:** May 2026 | **Status:** Active & Learning
+username, name, headlines 
