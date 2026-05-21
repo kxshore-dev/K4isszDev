@@ -1,192 +1,148 @@
-<div align="center">
+# Hey, I'm Kishore 👋
 
-# ✨ M. Kishore
-### 🚀 @KxShore
-**Full-Stack Developer | Self-Learner | Founder of AgoraNet**
+### @MKishoreDev
 
-*Continuous Learning | Building with Python, JavaScript, and Web Technologies*
+**16 • Class 12th • Computer Science | Full-Stack Developer | Open Source Enthusiast**
 
-[![GitHub followers](https://img.shields.io/github/followers/Kxshore?style=flat-square&color=000000)](https://github.com/K4isszDev)
-[![GitHub User's stars](https://img.shields.io/github/stars/forks?style=flat-square&color=000000)](https://github.com/K4isszDev)
-
----
-
-</div>
-
-## 👋 About Me
-
-I'm **M. Kishore**, a student from **Tirunelveli, Tamil Nadu**, currently in **Class 11 (2025–26)**. My coding journey started in **2021** during lockdown — out of pure curiosity. I discovered Telegram bots and realized I could create them without prior programming knowledge. That spark ignited everything.
-
-### 📖 My Journey
-
-- 🤖 Started with Telegram bots and GitHub forks
-- 🚀 Deployed bots on Heroku (group management, userbots, file renamers, uploaders)
-- 🎓 Self-taught **Python**, **HTML**, **CSS**, **JavaScript**
-- 📜 Completed **HDCA Diploma** (learned C, C++, MySQL)
-- 🗄️ Explored multiple databases: MongoDB, MySQL, SQLite, Redis, ElephantSQL
-- 👥 **CEO & Founder of AgoraNet** — a network of 300+ developers on Telegram
-
-Every project taught me something new. Every mistake became a lesson. I'm not chasing a fixed aim — I'm **learning, exploring, and growing every day**.
+```
+📍 Tirunelveli, Tamil Nadu, India
+🎓 PM SHRI Kendriya Vidyalaya Vijayanarayanam
+```
 
 ---
 
-## 💻 Technical Expertise
+---
 
-### 🔤 Languages
+## About Me
+
+I'm a 16-year-old developer learning to build things on the web. My coding journey started unexpectedly during lockdown in 2021 when I discovered Telegram bots. What began as curiosity has become a genuine passion for solving problems through code.
+
+Currently, I'm balancing my Class 12th academics while focusing on **building open-source projects** and exploring what I want to do next. I'm honest about my strengths—Python, databases, backend logic—and my weaknesses—I'm not great at frontend, so I use tools to help me build clean UIs.
+
+---
+
+## 🚀 My Journey
+
+**2021** — Installed Telegram, found a YouTube video about deploying rename bots on Heroku, and deployed my first bot.
+
+**2021–2023** — Deployed multiple Telegram bots, forked repos, modified them, and created a popular group management bot called **Serena**.
+
+**2023–2024** — Took a step back. Realized I was limited to Telegram and couldn't show my work to my parents or teachers. Started learning Python from scratch, built music bots, tool bots, and game bots.
+
+**2024** — Made a hard decision: deleted all repositories. Felt like I was repeating myself. Wanted to start fresh with better projects.
+
+**2025** — Completed my 10th board exams (May 2025). Spent the holiday thinking about my future. Chose the Computer Science group for 11th. Still figuring out my ambition, but committed to building real, meaningful projects.
+
+**2026–Present** — Now in Class 12th, balancing academics with open-source development. Learning and growing every day.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🗄️ Databases & Caching
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🔧 Version Control & Command Line
-
-#### Git & GitHub
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Git Proficiency:**
-- ✓ Version control workflows (commit, branch, merge, rebase)
-- ✓ Collaborative development and pull requests
-- ✓ Repository management and GitHub workflows
-- ✓ Conflict resolution and advanced Git operations
-
-#### Command Line & Shells
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Command Prompt](https://img.shields.io/badge/CMD-000000?style=flat-square&logo=windows-terminal&logoColor=white)
-![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Command Line Expertise:**
-- ✓ Windows Command Prompt and PowerShell scripting
-- ✓ Linux/Bash scripting and system administration
-- ✓ Cross-platform development and deployment
-- ✓ Automation and batch processing
-
-### 🖥️ Operating Systems & Environments
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### ⚙️ Development Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
 
-## 🏢 Professional Experience
+## 🎯 Skills Breakdown
 
-### 👑 AgoraNet — CEO & Founder
-- Built and manage a network of **300+ developers** on Telegram
-- Facilitate collaboration, knowledge sharing, and community growth
-- Organize projects, discussions, and technical initiatives
-- Demonstrated leadership and community management skills
+| Area | Level | Notes |
+|------|-------|-------|
+| **Python** | Strong | My go-to language for everything |
+| **JavaScript** | Intermediate | Can build functional apps, design isn't my strength |
+| **Databases** | Intermediate | Know theory well, limited production experience |
+| **Frontend** | Beginner-Intermediate | Honest: I use AI tools to make things look polished |
+| **Backend** | Intermediate | More comfortable with server logic than UI |
+| **Git/GitHub** | Intermediate | Comfortable with workflows and collaboration |
+| **Deployment** | Intermediate | Used Heroku, Vercel, Netlify |
 
-### 🎯 Project Highlights
-- 🤖 **Telegram Bot Development**: Created multiple production-grade bots for automation and group management
-- 🌐 **Full-Stack Applications**: Developed web applications using Python, JavaScript, and various databases
-- 📊 **Database Design**: Worked with relational and NoSQL databases for scalable solutions
-- 🚀 **Deployment & DevOps**: Deployed applications on Heroku, Vercel, and Netlify
+---
+
+## 🎯 What I'm Working Towards
+
+- Building **real, open-source projects** that solve actual problems
+- Getting better at **full-stack development** — from backend logic to clean frontend
+- Understanding **system design** and scalable architecture
+- Figuring out my career path before Class 12 ends
 
 ---
 
 ## 🤝 Open to Collaboration
 
-I'm always excited to work on:
-
-- 🤖 **Telegram bots** and automation projects
-- 🌐 **Web applications** and full-stack development
-- 🔓 **Open-source projects** and community contributions
-- 💡 **Creative ideas** and tech experiments
-- 🏗️ **Backend systems** and database architecture
-
-Whether you need help with debugging, architecture design, or brainstorming — I'd love to contribute and learn together!
+I'm interested in:
+- **Full-stack web projects** — backend and frontend work
+- **Python-based tools** — automation, scripting, data processing
+- **Open-source contributions** — learning from experienced developers
+- **Learning from others** — mentorship and code review
+- **Telegram bots** — still a passion, but moving beyond them
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKishoreDev&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kxshore&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxshore&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MKishoreDev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🌐 My Network
+## 🌐 Let's Connect
 
-<div align="center">
+```
+┌─────────────────────────────────┐
+│  Choose where to reach me  │
+└─────────────────────────────────┘
+```
 
-### 🚀 Join the AgoraNet Community
-
-**300+ Developers | Growing Network | Collaborative Learning**
-
-| Platform | Purpose | Link |
-|----------|---------|------|
-| 🌍 **Main Network** | Community Hub & Discussions | [![AgoraNet](https://img.shields.io/badge/→%20AgoraNet-Join%20Now-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet) |
-| 💬 **Chat Group** | Real-time Conversations | [![AgoraNet Chat](https://img.shields.io/badge/→%20Chat%20Group-Join%20Now-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet_Chat) |
-| 🎁 **Donations** | Support & Resources | [![AgoraNet Donations](https://img.shields.io/badge/→%20Donations-Support-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet_Donations) |
-
-</div>
-
----
-
-## 🎬 Personal Interests
-
-### Anime & Storytelling
-
-I'm a passionate fan of **romcom anime** — a genre that captures something truly special. These stories explore emotions and human connections that feel almost impossible to experience in real life. There's a certain magic in watching characters navigate love, laughter, and genuine understanding. It's a reminder of what makes life beautiful: authentic connections, shared moments, and the hope that someone out there truly gets you.
+| Platform | Link | Status |
+|----------|------|--------|
+| **GitHub** | [github.com/MKishoreDev](https://github.com/MKishoreDev) | ✔ Active |
+| **Email** | [kishoredxd@gmail.com](mailto:kishoredxd@gmail.com) | ✔ Always Open |
+| **Telegram** | [@KishoreDxD](https://t.me/KishoreDxD) | ✔ Quick Response |
+| **Instagram** | [@K4issz.Luv](https://instagram.com/K4issz.Luv) | ✔ Daily Updates |
 
 ---
 
 ## 🧠 Philosophy
 
-> *I'm not chasing a fixed aim — I'm learning, exploring, and growing every day.*
->
-> *Coding isn't just what I do — it's how I understand the world better.*
->
-> *Previously, I deleted all my projects to start fresh. In the future, there will be lots of new projects and contributions.*
->
-> *If my work inspires even one person to start their own journey, that's success to me.*
+> Coding is how I understand the world.  
+> Every project teaches me something.  
+> Every mistake is a lesson.  
+> I'm not trying to be perfect — I'm trying to be better than yesterday.
 
 ---
 
-## 📞 Connect With Me
+## 📈 Current Focus
 
-<div align="center">
-
-### 🔗 Let's Build Something Amazing Together
-
-**Choose your preferred platform to reach out:**
-
-| Channel | Status | Link |
-|---------|--------|------|
-| 💻 **GitHub** | Active | [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K4isszDev) |
-| 📧 **Email** | Always Open | [![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoredxd@gmail.com) |
-| 📱 **Telegram** | Quick Response | [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KishoreDxD) |
-| 📸 **Instagram** | Daily Updates | [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/K4issz.Luv) |
-
----
-</div>
+- Building **real open-source projects** that matter
+- Getting better at **full-stack development**
+- Learning **system design** and scalability
+- Figuring out what I want to do after Class 12
 
 ---
 
-<div align="center">
+```
+╔════════════════════════════════════════╗
+║  Made with curiosity & persistence  ║
+║        @MKishoreDev on GitHub        ║
+╚════════════════════════════════════════╝
+```
 
-**Made with passion by [K4isszDev](https://github.com/K4isszDev)**
-
-*Every line of code tells a story — curiosity, mistakes, growth, and self-learning.*
-
-</div>
+**Last updated:** May 2026 | **Status:** Active & Learning
