@@ -6,12 +6,12 @@
 
 <br />
 
-**16 • Class 12th CS • Tirunelveli, India**  
+**16 • Class 12th CS • Tirunelveli, India**
 Passionate about solving problems through code
 
-[![GitHub followers](https://img.shields.io/github/followers/MKishoreDev?style=for-the-badge&logo=github&color=0EA5E9&labelColor=1e293b)](https://github.com/MKishoreDev)
-[![Profile Views](https://komarev.com/ghpvc/?username=MKishoreDev&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS&labelColor=1e293b)](https://github.com/MKishoreDev)
-[![Active Developer](https://img.shields.io/badge/ACTIVELY-CODING-10B981?style=for-the-badge&labelColor=1e293b)](https://github.com/MKishoreDev)
+[![GitHub followers](https://img.shields.io/github/followers/MKishoreDev?style=for-the-badge\&logo=github\&color=0EA5E9\&labelColor=1e293b)](https://github.com/MKishoreDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=MKishoreDev\&style=for-the-badge\&color=0EA5E9\&label=PROFILE+VIEWS\&labelColor=1e293b)](https://github.com/MKishoreDev)
+[![Active Developer](https://img.shields.io/badge/ACTIVELY-CODING-10B981?style=for-the-badge\&labelColor=1e293b)](https://github.com/MKishoreDev)
 
 <br />
 
@@ -24,10 +24,10 @@ class Developer:
         self.passion = "Building Open Source"
 
     def current_focus(self):
-        return ["Student Dev", "System Design", "Backend Architecture"]
-    
+        return ["Student Dev", "Backend Development", "System Design"]
+
     def languages(self):
-        return {"Python": "⭐⭐⭐⭐⭐", "JavaScript": "⭐⭐"}
+        return {"Python": "⭐⭐⭐⭐⭐", "JavaScript": "⭐⭐⭐"}
 
 kishore = Developer()
 ```
@@ -38,15 +38,17 @@ kishore = Developer()
 
 ## 🚀 About Me
 
-I'm a 16-year-old developer building the future one line of code at a time. My coding journey started unexpectedly during lockdown in 2021 when I discovered Telegram bots. What began as curiosity has become a genuine passion for **solving real problems through code**.
+I'm a 16-year-old developer building the future one line of code at a time. My coding journey started during the 2021 lockdown when I discovered Telegram bots. What began as curiosity quickly became a passion for solving real-world problems through software.
 
-Currently balancing **Class 12th academics** with serious development work, I focus on:
-- Building **open-source projects** that matter
-- Learning **data structures & algorithms**
-- Creating **backend solutions** that perform
-- Contributing to the **developer community**
+Currently balancing Class 12 academics with development, I focus on:
 
-**My philosophy:** I'd rather ship one great project than ten mediocre ones. Every bug is a lesson. Every project teaches me something new.
+* Building open-source projects
+* Learning data structures and algorithms
+* Designing scalable backend systems
+* Contributing to developer communities
+* Continuously improving my problem-solving skills
+
+> I'd rather ship one great project than ten mediocre ones.
 
 ---
 
@@ -55,27 +57,27 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 <table>
   <tr>
     <td width="5%" align="center">📅</td>
-    <td><b>2021</b> — Discovered Telegram bots during lockdown • Built my first bot without formal training</td>
+    <td><b>2021</b> — Discovered Telegram bots during lockdown and built my first bot</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>2021–2023</b> — Created <b>Serena</b>, a popular group management bot • Learned by doing, not just reading</td>
+    <td><b>2021–2023</b> — Built Serena, a group management bot and learned programming through hands-on projects</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>2023–2024</b> — Reset & refocused • Started learning Python fundamentals seriously • Built music, utility bots</td>
+    <td><b>2023–2024</b> — Focused on Python fundamentals and software engineering principles</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>2024</b> — <b>Quality over quantity</b> • Deleted old repos for a fresh start • Began serious architecture studies</td>
+    <td><b>2024</b> — Restarted with a quality-over-quantity mindset and began studying architecture patterns</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>2025</b> — Passed 10th board exams • Chose Computer Science • Committed to full-stack development</td>
+    <td><b>2025</b> — Completed 10th board exams and chose the Computer Science stream</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>2026–Now</b> — Balancing Class 12th • Building real-world projects • Exploring system design & scalability</td>
+    <td><b>2026–Now</b> — Building production-ready projects while exploring scalability and system design</td>
   </tr>
 </table>
 
@@ -86,13 +88,16 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=4" alt="Languages" />
 
 ### Backend & Databases
+
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,postgres,redis,sqlite&perline=7" alt="Backend" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=5" alt="Tools" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker&perline=6" alt="Tools" />
 
 </div>
 
@@ -100,17 +105,17 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 
 ## 🎯 Skills & Expertise
 
-| Skill | Proficiency | Experience |
-|-------|-------------|-----------|
-| **Python** | ⭐⭐⭐⭐⭐ | 3+ years (Primary language) |
-| **Backend Architecture** | ⭐⭐⭐⭐ | APIs, databases, scaling |
-| **Databases** | ⭐⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis |
-| **JavaScript** | ⭐⭐⭐ | Growing with hands-on projects |
-| **Full-Stack** | ⭐⭐⭐ | Building complete web applications |
-| **DevOps & Deployment** | ⭐⭐⭐⭐ | Vercel, Netlify, Docker |
-| **Git & Collaboration** | ⭐⭐⭐⭐ | Professional workflows |
+| Skill               | Proficiency |
+| ------------------- | ----------- |
+| Python              | ⭐⭐⭐⭐⭐       |
+| Backend Development | ⭐⭐⭐⭐        |
+| Database Design     | ⭐⭐⭐⭐        |
+| FastAPI             | ⭐⭐⭐⭐        |
+| JavaScript          | ⭐⭐⭐         |
+| DevOps & Deployment | ⭐⭐⭐⭐        |
+| Git & Collaboration | ⭐⭐⭐⭐        |
 
-> I build to learn, not to copy. Each project pushes my boundaries and teaches me something new.
+> I build to learn, not to copy. Every project teaches something valuable.
 
 ---
 
@@ -119,18 +124,23 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 <div align="center">
 
 ### Profile Summary
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKishoreDev&theme=github_dark)
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKishoreDev\&theme=github_dark)
 
 ### GitHub Stats
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MKishoreDev&theme=github_dark)
 
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AuraMoon55&theme=juicyfresh&no-bg=true&no-frame=false&column=3)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MKishoreDev\&theme=github_dark)
+
+### Top Languages
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MKishoreDev&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
 
 ### Contribution Streak
+
 <img src="https://streak-stats.demolab.com?user=MKishoreDev&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 
 ### Activity Timeline
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKishoreDev&theme=github-dark&hide_border=true&border_radius=10&area=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph" />
 
 </div>
@@ -141,27 +151,27 @@ Currently balancing **Class 12th academics** with serious development work, I fo
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
 </div>
 
 ---
 
-## 🤝 Let&apos;s Collaborate
+## 🤝 Let's Collaborate
 
-I&apos;m always excited to work on:
+I'm always interested in:
 
-```
+```text
 ✨ Full-stack web applications
-🐍 Python automation & tools
+🐍 Python tools and automation
 🚀 Open-source projects
-⚙️ Backend architecture & APIs
+⚙️ APIs and backend systems
 🔧 System design challenges
 💬 Telegram bot ecosystems
-📱 Cross-platform solutions
+📱 Developer-focused products
 ```
 
-**Open to:** Mentorship • Code reviews • Pair programming • Learning opportunities
+**Open to:** Collaborations • Code Reviews • Learning Opportunities • Open Source Contributions
 
 ---
 
@@ -169,13 +179,11 @@ I&apos;m always excited to work on:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MKishoreDev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoredxd@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KishoreDxD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/K4issz.Luv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-m-dev)
-
-**💬 Open for:** Collaborations • Mentorship • Project ideas • Technical discussions
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MKishoreDev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kishoredxd@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/KishoreDxD)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/K4issz.Luv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kishore-m-dev)
 
 </div>
 
@@ -185,48 +193,45 @@ I&apos;m always excited to work on:
 
 > **"Code is poetry written for machines to execute and humans to understand."**
 
-```
+```text
 🎯 Ship > Perfect
 📚 Learn > Know
-🤝 Collaborate > Compete  
+🤝 Collaborate > Compete
 🚀 Build > Talk
-💡 Experiment > Execute blindly
+💡 Experiment > Fear Failure
 ```
 
 I believe in:
-- **Writing code that humans can read** and machines can execute
-- **Failing fast** to learn faster
-- **Building in public** to grow with the community
-- **Being honest about what I don't know** (and learning it)
-- **Making an impact**, not just following trends
+
+* Writing code that humans can understand
+* Learning continuously
+* Building in public
+* Sharing knowledge
+* Solving meaningful problems
 
 ---
 
 <div align="center">
 
----
+### ⭐ Thanks for Visiting!
 
-### ⭐ If you find this interesting, consider giving a star!
-
-```
-  ╔═══════════════════════════════════════════════════╗
-  ║  Made with ❤️ + curiosity + lots of coffee     ║
-  ║         @MKishoreDev                            ║
-  ║  Always learning. Always building. Always growing.║
-  ╚═══════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════╗
+║  Made with curiosity, consistency, and learning    ║
+║                    @MKishoreDev                    ║
+║   Always learning. Always building. Always growing.║
+╚══════════════════════════════════════════════════════╝
 ```
 
-<p>
-  <strong>Last Updated:</strong> May 2026 <br>
-  <strong>Status:</strong> 🚀 Active & Always Learning <br>
-  <strong>Currently:</strong> Building awesome things & solving problems
-</p>
+**Last Updated:** May 2026
+**Status:** 🚀 Active & Always Learning
+**Currently:** Building useful projects and exploring scalable systems
 
 ---
 
-<p>
-  <em>Feel free to fork, clone, or get inspired by this README. <br>
-  Questions? Reach out! I love connecting with fellow developers.</em>
-</p>
+<em>
+Feel free to fork, clone, or get inspired by this README.<br>
+Questions? Reach out — I'd love to connect with fellow developers.
+</em>
 
 </div>
